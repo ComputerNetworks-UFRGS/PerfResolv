@@ -21,7 +21,6 @@ precisará instalar as seguintes dependências:
 * pandas
 * pip
 * altair_viewer
-* altair vega_datasets
 
 
 
